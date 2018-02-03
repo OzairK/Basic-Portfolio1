@@ -45,7 +45,7 @@ body {
     position:fixed; /* keeps footer on the bottom of the window */
     bottom: 0;
     background-color:gray;
-    Padding: 30px;
+    Padding: 20px;
     width: 100%;
     text-align: center;
     border-top: 10px solid #4aaaa5;
